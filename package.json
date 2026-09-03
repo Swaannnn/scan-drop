@@ -1,0 +1,30 @@
+{
+    "name": "scan-drop",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Swaannnn/scan-drop.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "type": "module",
+    "bugs": {
+        "url": "https://github.com/Swaannnn/scan-drop/issues"
+    },
+    "homepage": "https://github.com/Swaannnn/scan-drop#readme",
+    "dependencies": {
+        "discord.js": "^14.27.0",
+        "playwright": "^1.62.1"
+    },
+    "devDependencies": {
+        "@types/node": "^26.4.1",
+        "tsx": "^4.23.13",
+        "typescript": "^7.0.2"
+    }
+}

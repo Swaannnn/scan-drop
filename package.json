@@ -20,6 +20,7 @@
     "homepage": "https://github.com/Swaannnn/scan-drop#readme",
     "dependencies": {
         "discord.js": "^14.27.0",
+        "dotenv": "^17.4.2",
         "playwright": "^1.62.1"
     },
     "devDependencies": {
